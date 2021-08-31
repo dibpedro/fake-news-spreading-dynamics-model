@@ -20,6 +20,7 @@ Pedro Dib (pedrodib100@gmail.com)
 
 ## Licença
 
+Este projeto está licenciado nos termos da licença [MIT License] - verificar o arquivo LICENSE.md para mais detalhes.
 
 
 
