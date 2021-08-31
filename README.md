@@ -20,7 +20,7 @@ Pedro Dib (pedrodib100@gmail.com)
 
 ## Licença
 
-Este projeto está licenciado nos termos da licença [MIT License] - verificar o arquivo LICENSE.md para mais detalhes.
+Este projeto está licenciado nos termos da licença [MIT License](https://github.com/dibpedro/fake-news-spreading-dynamics-model/blob/666d2be981eef9650b804a588d5fbd2447a49d2c/LICENSE).
 
 
 
